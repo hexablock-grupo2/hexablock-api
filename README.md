@@ -1,7 +1,6 @@
 # HexaBlock Suite — Backend API
 
-<!-- Badges: replace OWNER/REPO once the repo exists. CI badge appears after the first workflow run. -->
-![commitlint](https://github.com/OWNER/REPO/actions/workflows/commitlint.yml/badge.svg)
+[![commitlint](https://github.com/hexablock-grupo2/hexablock-api/actions/workflows/commitlint.yml/badge.svg?event=pull_request)](https://github.com/hexablock-grupo2/hexablock-api/actions/workflows/commitlint.yml)
 <!-- TODO: build/test badge, test types badges, license badge -->
 
 > REST API for HexaBlock Suite: users (JWT), progress per `gameId`, leaderboards and level definitions.
